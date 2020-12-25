@@ -4,15 +4,4 @@
 <h1>from future2</h1>
 <h1>from future3</h1>
 <h1>Final From FUTURE</h2>
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<h1>from future4</h1>
->>>>>>> a693704... c
-=======
-<h1>from future4</h1>
->>>>>>> a693704... c
-=======
->>>>>>> 8f09761... g
-=======
->>>>>>> 8f09761f8088a33a86402357a06d1372c9c1134b
+
