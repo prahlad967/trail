@@ -3,12 +3,13 @@
 <h1>Hi from future1 branch</h1>
 <h1>from future2</h1>
 <h1>from future3</h1>
-<<<<<<< HEAD
-<<<<<<< HEAD
 <h1>Final From FUTURE</h2>
+<<<<<<< HEAD
 =======
 <h1>from future4</h1>
 >>>>>>> a693704... c
 =======
 <h1>from future4</h1>
 >>>>>>> a693704... c
+=======
+>>>>>>> 8f09761... g
