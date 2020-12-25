@@ -4,7 +4,11 @@
 <h1>from future2</h1>
 <h1>from future3</h1>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <h1>Final From FUTURE</h2>
 =======
 <h1>from future4</h1>
 >>>>>>> a693704... c
+=======
+<h1>from future4</h1>
+>>>>>>> a69370462b6a376f3691f82309439513a0cdd39b
