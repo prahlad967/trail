@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hi from GITHUB/
+=======
+Hi from GITHUB/
+>>>>>>> 7d35c0a12a099cc4e88b2d32c02f8e4abe7ca234
 hi
